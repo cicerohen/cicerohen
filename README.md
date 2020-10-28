@@ -26,7 +26,7 @@ companies.
 
 
 ## My lastest posts
-* [Linkedin Pulse(pt_BR)](https://www.linkedin.com/in/cicero-viana-ba4a2029/detail/recent-activity/posts/)
+* [Linkedin(pt_BR)](https://www.linkedin.com/in/cicero-viana-ba4a2029/detail/recent-activity/posts/)
 
 ## Initiatives that I'm envolved
 
