@@ -42,8 +42,8 @@ on the server-side like NodeJS and Deno.
 
 [Front-end Ceará](http://linktr.ee/frontendce)
 
-A community of enthusiasts and professionals based in Ceará, Brazil, and that use some flavors of JavaScript
-on the server-side like NodeJS and Deno.
+A community of enthusiasts and professionals of front-end based in Ceará, Brazil, that has the purpose of
+sharing knowledge about JavaScript, HTML, and CSS.
 
 ## More about me
 https://linktr.ee/cicerohen
