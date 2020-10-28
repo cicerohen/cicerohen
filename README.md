@@ -19,17 +19,20 @@ companies.
 <span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" alt="HTML" /></span>
 <span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1495403651/2320/graphql.png?1495403651" alt="GraphQL" /></span>
 
-## In my free time, I like... run, Forrest, run
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1498861595/2529/gottarun.gif?1498861595" alt="Run" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1466439103/529/sonic-running.gif?1466439103" alt="Run" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1533074182/4322/yoshi_run.gif?1533074182" alt="Run" /></span>
+## In my free time, I like...
 
+* ... run, Forrest, run
+<span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1498861595/2529/gottarun.gif?1498861595" alt="Run" /></span>
+<span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1466439103/529/sonic-running.gif?1466439103" alt="Run" /></span>
+<span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1533074182/4322/yoshi_run.gif?1533074182" alt="Run" /></span>
+
+* read and listen to podcasts about science, psychology, sociology, history and computer science. 
 
 
 ## My latest activities
 * [Articles(pt_BR)](https://www.linkedin.com/in/cicero-viana-ba4a2029/detail/recent-activity/posts/)
-* [Talks](https://github.com/cicerohen/talks)
-* [Mentoring on workshops](https://github.com/reactjs-ceara/workshops)
+* [Talks(pt_BR and en_US)](https://github.com/cicerohen/talks)
+* [Mentoring on workshops(pt_BR)](https://github.com/reactjs-ceara/workshops)
 
 ## Community initiatives that I'm envolved
 
