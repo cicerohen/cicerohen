@@ -12,6 +12,7 @@ companies.
 ## Main skills
 <span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript" /></span>
 <span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" alt="ReactJS" /></span>
+<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" alt="Redux" /></span>
 <span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" alt="NodeJS" /></span>
 <span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1532540801/4295/jest.png?1532540801" alt="Jest" /></span>
 <span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" alt="CSS" /></span>
@@ -25,10 +26,12 @@ companies.
 
 
 
-## My lastest posts
-* [Linkedin(pt_BR)](https://www.linkedin.com/in/cicero-viana-ba4a2029/detail/recent-activity/posts/)
+## My latest activities
+* [Articles(pt_BR)](https://www.linkedin.com/in/cicero-viana-ba4a2029/detail/recent-activity/posts/)
+* [Talks](https://github.com/cicerohen/talks)
+* [Mentoring on workshops](https://github.com/reactjs-ceara/workshops)
 
-## Initiatives that I'm envolved
+## Community initiatives that I'm envolved
 
 [ReactJS Ceará](https://linktr.ee/react.js.ceara)
 
