@@ -9,15 +9,23 @@ In the last 3 years, I have been learning and working with ReactJS and its
 entire ecosystem to build and improve web and mobile hybrid apps, in some Brazilian tech
 companies.
 
-## Main skills
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" alt="ReactJS" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" alt="Redux" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" alt="NodeJS" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1532540801/4295/jest.png?1532540801" alt="Jest" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" alt="CSS" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" alt="HTML" /></span>
-<span><img size="64" height="64" src="https://emojis.slackmojis.com/emojis/images/1495403651/2320/graphql.png?1495403651" alt="GraphQL" /></span>
+## Main tech skills
+<span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" alt="ReactJS" /></span>
+<span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" alt="Redux" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" alt="NodeJS" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1532540801/4295/jest.png?1532540801" alt="Jest" /></span>
+<span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" alt="CSS" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1470342476/703/sass.png?1470342476" alt="SASS" /></span>
+<span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" alt="HTML" /></span>
+<span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1495403651/2320/graphql.png?1495403651" alt="GraphQL" /></span>
+
+
+## I also have knowledge of...
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png?1462400762" alt="Docker" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" alt="AWS" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" alt="AWS" /></span>
+
 
 ## In my free time, I like...
 
