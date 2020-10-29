@@ -1,4 +1,4 @@
- <h1><img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif" width="30"/>  Hi,</h1>
+ <h1><img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif" width="30"/>  Hi</h1>
 
 # I'm Cícero Viana,
 
