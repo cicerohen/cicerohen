@@ -37,7 +37,7 @@ companies.
 <span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1466439103/529/sonic-running.gif?1466439103" alt="Run" /></span>
 <span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1533074182/4322/yoshi_run.gif?1533074182" alt="Run" /></span>
 
-* read and listen to podcasts about science, psychology, sociology, history and computer science. 
+* read and listen to podcasts about science, psychology, sociology, history, computer science, patterns, concepts and best practices on software development 
 
 
 ## My latest activities
