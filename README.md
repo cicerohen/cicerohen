@@ -20,6 +20,7 @@ companies.
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1470342476/703/sass.png?1470342476" alt="SASS" /></span>
 <span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" alt="HTML" /></span>
 <span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1495403651/2320/graphql.png?1495403651" alt="GraphQL" /></span>
+<span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1543587555/5010/cypress.png?1543587555" alt="Cypress" /></span>
 
 
 ## I also have knowledge of...
