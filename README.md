@@ -46,7 +46,6 @@ companies.
 ## My latest activities
 * [Articles(pt_BR)](https://www.linkedin.com/in/cicero-viana-ba4a2029/detail/recent-activity/posts/)
 * [Talks(pt_BR and en_US)](https://github.com/cicerohen/talks)
-* [Mentoring on workshops(pt_BR)](https://github.com/reactjs-ceara/workshops)
 
 ## Community initiatives that I'm envolved
 
