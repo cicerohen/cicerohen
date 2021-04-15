@@ -11,6 +11,7 @@ companies.
 
 ## Main main tech skills
 <span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript" /></span>
+<span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" alt="TypeScript" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" alt="VueJS" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" alt="ReactJS" /></span>
 <span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" alt="Redux" /></span>
