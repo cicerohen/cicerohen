@@ -26,6 +26,7 @@ companies.
 
 
 ## I also have knowledge of...
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1470351458/734/ux.png?1470351458" alt="IHC/UX" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png?1462400762" alt="Docker" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" alt="AWS" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1551101669/5413/linux.png?1551101669" alt="Linux" /></span>
