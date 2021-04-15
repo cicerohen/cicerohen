@@ -9,7 +9,7 @@ In the last 3 years, I have been learning and working with ReactJS and its
 entire ecosystem to build and improve web and mobile hybrid apps, in some Brazilian tech
 companies.
 
-## Main tech skills
+## Main main tech skills
 <span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" alt="VueJS" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" alt="ReactJS" /></span>
