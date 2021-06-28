@@ -5,7 +5,7 @@
 a Brazilian software developer with +9 years of experience. I’m a professional engaged
 with quality and best practices on the development of user interfaces to web and mobile apps.
 
-In the last 3 years, I have been learning and working with ReactJS and its
+In the last 4 years, I have been learning and working with ReactJS and its
 entire ecosystem to build and improve web and mobile hybrid apps, in some Brazilian tech
 companies.
 
@@ -48,7 +48,7 @@ companies.
 ## My latest activities
 * [Articles(pt_BR)](https://www.linkedin.com/in/cicero-viana-ba4a2029/detail/recent-activity/posts/)
 * [Talks(pt_BR and en_US)](https://github.com/cicerohen/talks)
-* [Workshops organized by me(pt_BR)](https://github.com/cicerohen/workshops)
+* [Workshops/Mentonring organized by me(pt_BR)](https://github.com/cicerohen/workshops)
 
 ## Community initiatives that I'm envolved
 
