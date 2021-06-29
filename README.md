@@ -2,7 +2,7 @@
 
 # I'm Cícero Viana,
 
-a Brazilian software developer with +9 years of experience. I’m a professional engaged
+a software developer with +9 years of experience. I’m a professional engaged
 with quality and best practices on the development of user interfaces to web and mobile apps.
 
 In the last 4 years, I have been learning and working with ReactJS and its
