@@ -2,12 +2,9 @@
 
 # I'm Cícero Viana,
 
-a software developer with +10 years of experience. I’m a professional engaged
-with quality and best practices on the development of user interfaces to web and mobile apps.
+Front-end engineer with over 11 years of experience and engaged with quality and best practices on the development of user interfaces to web and mobile apps.
 
-In the last 5 years, I have been learning and working with ReactJS and its
-entire ecosystem to build and improve web and mobile hybrid apps, in some Brazilian tech
-companies.
+Since 2017 working with ReactJS, Redux, and other related tools to build awesome interfaces.
 
 ## Main tech skills
 <span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript" /></span>
