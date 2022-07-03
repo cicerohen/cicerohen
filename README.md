@@ -5,7 +5,7 @@
 a software developer with +10 years of experience. I’m a professional engaged
 with quality and best practices on the development of user interfaces to web and mobile apps.
 
-In the last 4 years, I have been learning and working with ReactJS and its
+In the last 5 years, I have been learning and working with ReactJS and its
 entire ecosystem to build and improve web and mobile hybrid apps, in some Brazilian tech
 companies.
 
