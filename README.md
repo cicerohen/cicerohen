@@ -2,7 +2,7 @@
 
 # I'm Cícero Viana,
 
-Front-end engineer with over 11 years of experience and engaged with quality and best practices in the development of user interfaces for web and mobile apps.
+Software engineer with over 11 years of experience and engaged with quality and best practices in the development of user interfaces for web and mobile apps.
 
 Since 2017 working with ReactJS, Redux, and other related tools to build awesome interfaces.
 
