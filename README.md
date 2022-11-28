@@ -11,6 +11,7 @@ Since 2017 working with ReactJS, Redux, and other related tools to build awesome
 <span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" alt="TypeScript" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" alt="VueJS" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" alt="ReactJS" /></span>
+<span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1643514489/4730/nextjs.jpeg?1643514489" alt="NextJS" /></span>
 <span><img height="32" src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" alt="Redux" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" alt="NodeJS" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1532540801/4295/jest.png?1532540801" alt="Jest" /></span>
