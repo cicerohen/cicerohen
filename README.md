@@ -1,8 +1,7 @@
  <h1><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"/>  Hi</h1>
 
 # I'm Cícero Viana,
-
-Software engineer with over 11 years of experience and engaged with quality and best practices in the development of user interfaces for web and mobile apps.
+Front-end engineer with over 11 years of experience and engaged with quality and best practices in the development of user interfaces for web and mobile apps.
 
 Since 2017 working with ReactJS, Redux, and other related tools to build awesome interfaces.
 
