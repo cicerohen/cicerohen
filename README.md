@@ -51,6 +51,9 @@ Since 2017 working with ReactJS, Redux, and other related tools to build awesome
 
 ## I also have knowledge of...
 <span title="Figma"><img  height="32" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></span>
+<span title="React Native"><img  height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></span>
+<span title="Expo"><img  height="32" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></span>
+
 
 <span title="Linux"><img  height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></span>
 <span title="Docker"><img  height="32" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></span>
