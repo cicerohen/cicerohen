@@ -89,22 +89,17 @@ Since 2017 working with ReactJS, Redux, and other related tools to build awesome
 * [Workshops/Mentonring organized by me(pt_BR)](https://github.com/cicerohen/workshops)
 
  
-## Community initiatives that I'm envolved
+## Community initiatives that I'm involved
 
 [ReactJS Ceará](https://linktr.ee/react.js.ceara)
 
-A community of enthusiasts and professionals based in Ceará, Brazil and that uses ReactJS for building cool
+A community of enthusiasts and professionals based in Ceará, Brazil  that uses ReactJS for building cool
 things.
 
 [Server-Side JavaScript Ceará](https://linktr.ee/ssjsce)
 
-A community of enthusiasts and professionals based in Ceará, Brazil, and that use some flavors of JavaScript
+A community of enthusiasts and professionals based in Ceará, Brazil that use some flavors of JavaScript
 on the server-side like NodeJS and Deno.
-
-[Front-end Ceará](http://linktr.ee/frontendce)
-
-A community of enthusiasts and professionals of front-end based in Ceará, Brazil, that has the purpose of
-sharing knowledge about JavaScript, HTML, and CSS.
 
 ## More about me
 https://linktr.ee/cicerohen
